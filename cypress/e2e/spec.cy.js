@@ -2,7 +2,7 @@
 // registerCypressGrep()
 
 
-describe('empty spec', () => {
+describe('a spec', () => {
   it('first it', () => {
     cy.visit('https://example.cypress.io')
   })
